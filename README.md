@@ -27,6 +27,7 @@ In order to integrate Jarallax I did the following:
     
     (window as any).global = window;
 4- I imported jarallax on the app.component.ts
+
 5- Added last 3 lines into app.component.html
 
 ## Development server
